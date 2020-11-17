@@ -3,7 +3,7 @@
 def start_game(player1, player2)
   player1.to_s
   player2.to_s
-  return "Hello #{player1} & #{playar2}"
+  return "Hello #{player1} & #{player2}"
 end
 
 def play_game(player1, player2)
